@@ -25,4 +25,4 @@ Dropdown nav menu bar built with pure html and css
 ##  What I learned
 
 * Better understanding of css keyframes
-* Properties of css animation: delay, duration, direction
+* Properties of css animation: delay, duration, fill mode, timing function
